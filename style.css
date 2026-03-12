@@ -115,9 +115,9 @@ html, body {
     width: 400px;
     height: 400px;
 
-    background-image: url('images/photo22.png');
+    background-image: url('images/my-photo.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center top;
     background-repeat: no-repeat;
 
     border-radius: 50%;
